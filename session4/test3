@@ -1,0 +1,17 @@
+stu_num = '4032023042' 
+first_three = stu_num[0:3]
+print(first_three)
+last_three = stu_num[2:4]
+print(last_three)
+last_three = stu_num[4:7]
+print(last_three)
+last_three = stu_num[6:10]
+
+
+
+
+print(last_three)
+first_name = 'mehdi'
+last_name = 'ferydooni'
+student_number = 403202342
+formates_string = ' I am %s %s. My student numberis %d' %(first_name, last_name, student_number)
